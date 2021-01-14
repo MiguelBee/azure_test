@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/mbustamante0077/Miguel%20test%20ci/_apis/build/status/MiguelBee.azure_test?branchName=master)](https://dev.azure.com/mbustamante0077/Miguel%20test%20ci/_build/latest?definitionId=5&branchName=master)
